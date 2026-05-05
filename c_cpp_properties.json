@@ -1,0 +1,11 @@
+{
+    "configurations":[
+        {
+            "name": "macOS",
+            "compilerpath":  " /usr/bin/clang++",
+            "cppStandard": "c++17",
+            "intellisenseMode": "macos-clang-arm64"
+        }
+    ],
+    "version": 4
+}

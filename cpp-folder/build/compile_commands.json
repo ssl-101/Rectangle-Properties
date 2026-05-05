@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/sihamlee/Documents/VS Code Projects/cpp-folder/build",
+  "command": "/usr/bin/clang++  -I\"/Users/sihamlee/Documents/VS Code Projects/cpp-folder/include\" -g -std=gnu++17 -arch arm64 -o CMakeFiles/RECTANGLE-PROPERTIES.dir/src/main.cpp.o -c \"/Users/sihamlee/Documents/VS Code Projects/cpp-folder/src/main.cpp\"",
+  "file": "/Users/sihamlee/Documents/VS Code Projects/cpp-folder/src/main.cpp",
+  "output": "CMakeFiles/RECTANGLE-PROPERTIES.dir/src/main.cpp.o"
+}
+]
