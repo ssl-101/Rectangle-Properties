@@ -14,14 +14,14 @@ void getLengthWidth (double& length, double& width)
             cout << "Error! Enter a number greater than 0. \n";
         }
 
-    } while (length <=0);
+    } while (length <=0);//;;;
 
     
 }
 int main()
 
 { 
-    cout << "hello world" << endl;
+ 
 
     return 0;
 
