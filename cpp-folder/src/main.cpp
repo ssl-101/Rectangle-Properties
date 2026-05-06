@@ -41,8 +41,23 @@ void displayProperties (double perimeter, double area)
     cout << " Area: " << area << endl;
 }
 int main()
+{
+     double area, perimeter, length, width;
+     char choice;
 
-{ 
+     do{
+        getLengthWidth (length, width );
+        perimeter = calcPerimeter (length, width );
+        area = calcArea (length, width) ;
+
+    displayProperties ( perimeter, area );
+    
+    cout << "Do you want to create another rectangle? \n";
+    cout << " y/n :" << endl;
+    cin >> choice;
+
+    } while ( choice == 'y' || choice == 'y');
+    cout << "Goodbye! \n";
  
 
     return 0;
