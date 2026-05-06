@@ -1,4 +1,4 @@
-// This program displayes perimeter
+// This program displays perimeter
 // and area of a rectangle.
 #include <iostream>
 using namespace std;
@@ -6,6 +6,7 @@ using namespace std;
 // establish functions.
 void getLengthWidth (double& length, double& width)
 {
+   // do while added with in the funtion.
     do{
         cout << "Enter length (greater than 0):" ;
         cin >> length;
@@ -42,6 +43,9 @@ void displayProperties (double perimeter, double area)
 }
 int main()
 {
+    // now the main can perform tasks. 
+    // opted for char choice becasue 
+    // it is commonly used.
      double area, perimeter, length, width;
      char choice;
 
