@@ -1,0 +1,3 @@
+/Users/sihamlee/Documents/VS Code Projects/cpp-folder/build/CMakeFiles/CPP-FOLDER.dir
+/Users/sihamlee/Documents/VS Code Projects/cpp-folder/build/CMakeFiles/edit_cache.dir
+/Users/sihamlee/Documents/VS Code Projects/cpp-folder/build/CMakeFiles/rebuild_cache.dir
