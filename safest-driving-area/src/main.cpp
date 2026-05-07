@@ -14,5 +14,4 @@ void showLowest ( string regionName, int accidents);
 
 int main()
 {
-    
-}
+
